@@ -65,9 +65,14 @@ ul {
     font-size: 15px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 #th {
     color: white;
     background-color: rgb(32, 169, 229);
+    font-weight: bold;
 }
 
 .td-azzurro {
@@ -78,6 +83,18 @@ ul {
 .td-bianco {
     color: black;
     background-color: white;
+}
+
+.colonna-1 {
+    width: 15%;
+}
+
+.colonna-2 {
+    width: 15%;
+}
+
+.colonna-3 {
+    width: 70%;
 }
 
 /* footer */
