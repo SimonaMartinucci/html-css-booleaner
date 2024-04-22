@@ -1,0 +1,137 @@
+/* generico */
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* header */
+header {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 350px;
+    background-color: rgb(78, 160, 255);
+    padding-top: 40px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+}
+
+#logo {
+    width: 170px;
+    height: auto;
+    padding-left: 300px;
+}
+
+/* main */
+h1 {
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+h3 {
+    font-size: 18px;
+    color: rgb(128, 128, 128);
+    font-weight: 400;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#the-booleaner {
+    color: rgb(60, 180, 232);
+}
+
+#date {
+    font-size: 12px;
+    color: rgb(128, 128, 128);
+    font-weight: 400;
+    margin-top: 1px;
+    margin-bottom: 15px;
+}
+
+.image-text {
+    font-size: 12px;
+}
+
+.text {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.highlight {
+    background-color: rgb(255, 255, 0);
+}
+
+ul {
+    padding-left: 15px;
+    font-size: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#th {
+    color: white;
+    background-color: rgb(32, 169, 229);
+    font-weight: bold;
+}
+
+.td-azzurro {
+    color: black;
+    background-color: rgb(177, 229, 242);
+}
+
+.td-bianco {
+    color: black;
+    background-color: white;
+}
+
+.colonna-1 {
+    width: 15%;
+}
+
+.colonna-2 {
+    width: 15%;
+}
+
+.colonna-3 {
+    width: 70%;
+}
+
+/* footer */
+#suggestions {
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(127, 127, 127);
+    margin-top: 40px;
+}
+
+#image-footer-one {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #FFFFFF;
+    font-size: 18x;
+    text-align: left;
+    font-weight: 600;
+    width: 200px;
+    height: 140px;
+    padding-top: 8px;
+    padding-left: 10px;
+    margin-bottom: 2px;
+    margin-top: 8px;
+}
+
+#image-footer-two {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #FFFFFF;
+    font-size: 18x;
+    text-align: left;
+    font-weight: 600;
+    width: 200px;
+    height: 150px;
+    padding-top: 8px;
+    padding-left: 10px;
+}
