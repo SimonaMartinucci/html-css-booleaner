@@ -44,6 +44,11 @@ h3 {
     color: rgb(128, 128, 128);
     font-weight: 400;
     margin-top: 1px;
+    margin-bottom: 15px;
+}
+
+.image-text {
+    font-size: 12px;
 }
 
 /* footer */
