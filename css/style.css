@@ -1,3 +1,8 @@
+/* generico */
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /* header */
 header {
     background-image: url(../img/pattern.png);
@@ -17,35 +22,35 @@ header {
 #suggestions {
     font-size: 15px;
     font-weight: 600;
-    color: rgb(132, 131, 131);
+    color: rgb(127, 127, 127);
 }
 
 #image-footer-one {
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
+    background-size: contain;
     color: #FFFFFF;
-    background-color: white;
     font-size: 18x;
     text-align: left;
     font-weight: 600;
-    width: 240px;
-    height: 150px;
-    padding-top: 3px;
-    padding-left: 5px;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    width: 200px;
+    height: 140px;
+    padding-top: 8px;
+    padding-left: 10px;
+    margin-bottom: 2px;
+    margin-top: 8px;
 }
 
 #image-footer-two {
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
+    background-size: contain;
     color: #FFFFFF;
-    background-color: white;
     font-size: 18x;
     text-align: left;
     font-weight: 600;
-    width: 240px;
+    width: 200px;
     height: 150px;
-    padding-top: 3px;
-    padding-left: 5px;
+    padding-top: 8px;
+    padding-left: 10px;
 }
