@@ -53,10 +53,31 @@ h3 {
 
 .text {
     font-size: 15px;
+    margin-bottom: 8px;
 }
 
 .highlight {
     background-color: rgb(255, 255, 0);
+}
+
+ul {
+    padding-left: 15px;
+    font-size: 15px;
+}
+
+#th {
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+
+.td-azzurro {
+    color: black;
+    background-color: rgb(177, 229, 242);
+}
+
+.td-bianco {
+    color: black;
+    background-color: white;
 }
 
 /* footer */
