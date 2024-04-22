@@ -1,3 +1,4 @@
+/* header */
 header {
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
@@ -12,6 +13,7 @@ header {
     height: auto;
 }
 
+/* footer */
 #suggestions {
     font-size: 15px;
     font-weight: 600;
@@ -22,9 +24,28 @@ header {
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
-    background-color: rgb(192, 19, 19);
-    font-size: 20px;
+    background-color: white;
+    font-size: 18x;
     text-align: left;
+    font-weight: 600;
     width: 240px;
     height: 150px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#image-footer-two {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: white;
+    font-size: 18x;
+    text-align: left;
+    font-weight: 600;
+    width: 240px;
+    height: 150px;
+    padding-top: 3px;
+    padding-left: 5px;
 }
