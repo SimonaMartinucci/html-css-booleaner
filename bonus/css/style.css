@@ -17,10 +17,15 @@ header {
 #logo {
     width: 170px;
     height: auto;
-    padding-left: 300px;
+    padding-left: 250px;
 }
 
 /* main */
+main {
+    padding-left: 250px;
+    padding-right: 200px;
+}
+
 h1 {
     font-size: 40px;
     font-weight: 900;
@@ -99,6 +104,11 @@ table {
 }
 
 /* footer */
+footer {
+    padding-left: 250px;
+    padding-right: 200px;
+}
+
 #suggestions {
     font-size: 15px;
     font-weight: 600;
