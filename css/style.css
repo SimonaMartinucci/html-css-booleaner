@@ -7,3 +7,20 @@ header {
     width: 170px;
     height: auto;
 }
+
+#suggestions {
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(132, 131, 131);
+}
+
+#image-footer-one {
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: rgb(192, 19, 19);
+    font-size: 20px;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+}
