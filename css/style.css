@@ -1,0 +1,9 @@
+header {
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+}
+
+#logo {
+    width: 170px;
+    height: auto;
+}
